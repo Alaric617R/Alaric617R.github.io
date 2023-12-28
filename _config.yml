@@ -80,15 +80,15 @@ analytics:
 
 # Site Author
 author:
-  name             : "Yuxiang Chen"
+  name             : "Yuxiang (Alaric) Chen"
   avatar           : "profile.png"
-  
-  bio              : "I preferred to be called Alaric. The stress is at the first 'A'"
-  location         : "Location"
+
+  bio              : "CSE senior in University of Michigan, Ann Arbor"
+  location         : "University of Michigan, Ann Arbor"
   employer         :
-  pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
-  googlescholar    : "http://yourfullgooglescholarurl.com"
-  email            :
+  # pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
+  # googlescholar    : "http://yourfullgooglescholarurl.com"
+  email            : "alaricyx@umich.edu"
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
   bitbucket        :
@@ -104,7 +104,7 @@ author:
   impactstory      : #"https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
   lastfm           :
   linkedin         :
-  orcid            : "http://orcid.org/yourorcidurl"
+  orcid            : "http://o÷rcid.org/yourorcidurl"
   pinterest        :
   soundcloud       :
   stackoverflow    : # http://stackoverflow.com/users/123456/username
